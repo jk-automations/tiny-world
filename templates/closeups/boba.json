@@ -1,0 +1,35 @@
+{
+  "shared_prefix": "",
+  "shared_suffix": "Extreme close-up macro photo, shallow depth of field, soft warm window light, rich true colors, sharp, cinematic, no text, no watermark, no people's faces.",
+  "negative": "text, letters, logo, watermark, cartoon, illustration, miniature, blurry, low quality, deformed hands, faces",
+  "shop_description": "",
+  "shots": [
+    {
+      "id": "pearls",
+      "mode": "t2i",
+      "seed": 7,
+      "width": 576,
+      "height": 1024,
+      "prompt": "Dark tapioca pearls tumbling from a ladle into a clear plastic cup of iced milk tea.",
+      "motion": "Glossy tapioca pearls fall and bounce slowly into the cup, milk tea ripples. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "swirl",
+      "mode": "t2i",
+      "seed": 8,
+      "width": 576,
+      "height": 1024,
+      "prompt": "Fresh milk pouring into a clear cup of amber iced tea, creamy swirls forming.",
+      "motion": "Milk pours and swirls slowly through the amber tea in soft clouds. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "straw",
+      "mode": "t2i",
+      "seed": 9,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A wide pink straw about to punch through the sealed top of a boba milk tea cup.",
+      "motion": "The straw punches through the sealed lid, a tiny splash of tea rises. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    }
+  ]
+}

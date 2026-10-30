@@ -1,0 +1,19 @@
+{
+  "name": "me",
+  "width": 576,
+  "height": 1024,
+  "fps": 24,
+  "frames": 177,
+  "keyframe_seed": 7,
+  "keyframe_prompt": "Turn this grey blockout into a photorealistic handmade miniature diorama of a tiny town square on a round wooden base on a workbench. The tall block on the stepped pedestal in the middle is a giant product standing like a monument. Tiny hand-painted figures look up at it, tiny trees, lamps, benches and little houses around the square. Warm golden-hour light, tilt-shift macro photography, shallow depth of field. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole round base is visible at the bottom of the frame. Do not move, zoom or crop the camera.",
+  "keyframe_negative": "grey clay, untextured, low quality, blurry, watermark, deformed, two statues, duplicate person, extra figurine of the person, photoreal human, real person, text, letters",
+  "film_prompt": "A handmade miniature diorama of a tiny town square on a round wooden base, a hand-painted collectible bobblehead figurine of a person, with a big oversized head, standing on a stepped pedestal like a monument, golden-hour light, tiny trees and lamps, tilt-shift macro photography. The bobblehead's big head bobs gently up and down on its spring; its body and the tiny townspeople are frozen in place like painted models and never move; only the camera moves, orbiting down to a low hero angle and pushing in to the figurine. The light stays soft and even.",
+  "film_seed": 42,
+  "keyframe_restyle_prompt": "Image 1 is a photo of a handmade miniature diorama. Keep image 1 exactly: same camera angle, framing, round wooden base, square, tiny figures, trees and light. Change only the tall block on the stepped pedestal: it becomes a hand-painted resin collectible bobblehead figurine of the person from image 2, standing proudly on the pedestal like a monument, smiling, one hand on the hip. The figurine copies the person's hairstyle, hair color, skin tone and outfit colors (glasses, hats and jewelry only if the person in image 2 wears them) in a painted toy-figure style, as a classic bobblehead: a big oversized head, about as big as the body, on a small body and a tiny spring neck. The tiny figures in the square look up at the figurine. Only one figurine of the person.",
+  "reveal_prompt": "Realistic handheld smartphone selfie video of this exact person in this exact place. They smile and give a small, natural wave at the camera. The camera barely moves. Quiet room tone.",
+  "photo_guide": "A photo of yourself: face and upper body in frame, good light, looking at the camera. Your own face only.",
+  "facts": "me",
+  "endcard_line": "That's me",
+  "ending": "short",
+  "keyframe_restyle_prompt_plush": "Image 1 is a photo of a handmade miniature diorama. Keep image 1 exactly: same camera angle, framing, round wooden base, square, tiny figures, trees and light. Change only the tall block on the stepped pedestal: it becomes a soft handmade plushie of the person from image 2, sitting proudly on the pedestal like a monument, smiling: felt and knitted fabric, visible stitched seams, yarn hair, button details, a slightly big head like a stuffed toy. The plushie copies the person's hairstyle, hair color, skin tone and outfit colors (glasses, hats and jewelry only if the person in image 2 wears them) in fabric. The tiny figures in the square look up at the figurine. Only one plushie of the person."
+}

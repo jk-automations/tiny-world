@@ -1,0 +1,55 @@
+{
+ "box": {
+  "still": "Image 1 is a photo of a handmade miniature diorama. Do NOT show the miniature itself anywhere in the picture: use image 1 only for its colors. Show a premium collectible toy playset retail box standing upright on a shop shelf, packaging colors and printed art inspired by the miniature in image 1. The front of the box has one big tall portrait-shaped window, almost twice as tall as it is wide, covering most of the front, and the whole window is a perfectly flat, solid pure bright green color (#00FF00) like a green screen, completely uniform, nothing inside it, no reflections on it. Colorful printed cardboard packaging around the window, a blank band at the top of the box for the title, small blank badges in the corners. Sharp product photo, soft studio light, shallow depth of field, vertical. No text, no letters, no logos.",
+  "motion": "The camera slowly pushes in toward the clear window of the toy box, closer and closer to the tiny diorama inside. Gentle shop ambience. Nothing changes shape.",
+  "title": true,
+  "negative": "text, letters, logo, watermark, toy visible in window, objects in window, reflections, gradient in window, blurry, low quality, deformed"
+ },
+ "globe": {
+  "still": "Image 1 is a photo of a handmade miniature diorama. Do NOT show the miniature itself anywhere in the picture: use image 1 only for its colors. Show a large glass snow globe standing on a wooden desk on a round wooden base, warm cozy evening light. The whole inside of the glass sphere is a perfectly flat, solid pure bright green color (#00FF00) like a green screen, completely uniform, nothing inside it. Room colors inspired by image 1. Photoreal, shallow depth of field, vertical. No text, no logos.",
+  "motion": "Snowflakes swirl slowly inside the glass snow globe, the camera slowly pushes in toward the tiny diorama inside. Soft magical chime, quiet room. The globe and diorama keep their shape.",
+  "negative": "text, letters, logo, watermark, objects inside globe, snow inside globe, reflections, gradient inside globe, blurry, low quality, deformed"
+ },
+ "guest": {
+  "needs_photo": "a real photo of a pet, a kid or you",
+  "still": "Image 1 is a photo of a handmade miniature diorama on a desk. Image 2 is a real photo. Show the exact same miniature diorama from image 1, and the real subject from image 2 as a GIANT behind it, leaning over the tiny diorama with a curious face close to it, as if it just discovered this tiny world on the desk. Keep the miniature from image 1 exactly as it is: the same single diorama, nothing added around it, no extra buildings, no town. Keep the subject's real look, colors, fur or clothes and markings from image 2. The only living thing in the picture is the subject from image 2: no other people, no other animals, no hands. Photoreal, natural light, tilt-shift depth of field, vertical. Funny and charming. No text.",
+  "motion": "The giant curious subject slowly leans in and sniffs the tiny diorama, head tilting, eyes curious, whiskers or hair moving gently. The tiny diorama stays perfectly still. Soft sniffing sound, quiet room.",
+  "negative": "text, letters, logo, watermark, cartoon, blurry, low quality, deformed, extra limbs, extra heads, destroyed buildings, extra buildings, tiny town, houses, second diorama, extra person, second subject, human head, man, woman, hands, people in background"
+ },
+ "figurine": {
+  "needs_photo": "a selfie of you (your own face only)",
+  "still": "Image 1 is a photo of a handmade miniature diorama. Image 2 is a photo of a person. Add one small hand-painted resin miniature figurine of the person from image 2, standing in the open space at the front of the diorama, the same small scale as the other tiny figures, waving one hand at the camera. The figurine copies the person's hair, skin tone and outfit colors in a painted collectible-figure style, not a real person. Keep the miniature from image 1 exactly: same buildings, colors, layout and details. Tilt-shift macro photo, vertical. No text.",
+  "motion": "The tiny painted figurine waves its hand at the camera, the camera slowly pushes in toward it. Everything else in the tiny diorama stays still. Soft cheerful sound.",
+  "negative": "text, letters, logo, watermark, blurry, low quality, deformed, extra limbs, giant person, real human, photoreal skin"
+ },
+ "me_game": {
+  "still": "Image 1 is a photo of a miniature diorama with one small hand-painted figurine in it. Show the exact same diorama and the exact same figurine (same hair, face, clothes, colors and size), now sitting in the tiny chair at the tiny desk, gaming on the tiny computer: hands on the tiny keyboard, facing the glowing tiny screens, seen from behind at a slight angle so the screens are visible. Keep everything else in the diorama exactly the same. Tilt-shift macro photo, vertical. No text.",
+  "motion": "The tiny painted figurine sits at the tiny desk gaming: its hands tap the tiny keyboard, its head leans toward the glowing screens, the screens flicker with colorful game light. The camera slowly drifts closer. Soft keyboard clicks and faint game sounds.",
+  "negative": "text, letters, logo, watermark, blurry, low quality, deformed, extra limbs, giant person, real human, photoreal skin, second figurine, two figurines, different figurine"
+ },
+ "me_walk": {
+  "motion": "The tiny painted figurine turns and walks a few small steps across the tiny floor toward the desk, arms swinging gently, like a stop-motion figure. The camera follows slowly. Everything else stays perfectly still. Soft tiny footsteps.",
+  "still": ""
+ },
+ "me_shop": {
+  "still": "Image 1 is a photo of a miniature diorama with one small hand-painted figurine in it. Show the exact same diorama and the exact same figurine (same hair, face, clothes, colors and size), now standing at the tiny shop counter or display by the entrance, proudly arranging the tiny goods with both hands, seen at a slight angle. Keep everything else in the diorama exactly the same. Tilt-shift macro photo, vertical. No text.",
+  "motion": "The tiny painted figurine arranges the tiny goods on the display with small careful hand movements, then looks up proudly. The camera slowly drifts closer. Soft shop sounds.",
+  "negative": "text, letters, logo, watermark, blurry, low quality, deformed, extra limbs, giant person, real human, photoreal skin, second figurine, two figurines, different figurine"
+ },
+ "me_look": {
+  "still": "Image 1 is a photo of a miniature diorama with one small hand-painted figurine in it. Show the exact same diorama and the exact same figurine (same hair, face, clothes, colors and size), now standing in the middle of the tiny scene, looking around in wonder with one hand raised, seen at a slight angle. Keep everything else in the diorama exactly the same. Tilt-shift macro photo, vertical. No text.",
+  "motion": "The tiny painted figurine looks around in wonder, turning its head slowly, one hand raised. The camera slowly drifts closer. Soft ambient sound.",
+  "negative": "text, letters, logo, watermark, blurry, low quality, deformed, extra limbs, giant person, real human, photoreal skin, second figurine, two figurines, different figurine"
+ },
+ "me_actions": {
+  "room": "me_game",
+  "storefront": "me_shop",
+  "default": "me_look"
+ },
+ "morph": {
+  "motion": "One continuous camera move, no cut, no fade. The camera flies forward into the open front of this tiny handmade diorama, past the tiny objects, and keeps moving: the scale grows as it flies, the tiny walls stretch away, every tiny object grows into its full-size real counterpart, and the camera lands in the real full-size place. Smooth, magical, continuous. A rising whoosh, then quiet ambient sound."
+ },
+ "morph_me": {
+  "motion": "One continuous camera move, no cut, no fade. The camera flies down toward the hand-painted figurine on the pedestal in this tiny handmade diorama and keeps moving: the scale grows as it flies, the figurine grows into the real full-size person and the tiny square around it becomes the real place, and the camera lands on the real person smiling at the camera. Smooth, magical, continuous. A rising whoosh, then quiet ambient sound."
+ }
+}

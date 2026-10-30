@@ -1,0 +1,19 @@
+{
+  "name": "room",
+  "width": 576,
+  "height": 1024,
+  "fps": 24,
+  "frames": 177,
+  "keyframe_prompt": "Turn this grey blockout into a photorealistic handmade miniature dollhouse room on a wooden base on a desk: a cozy bedroom with a gaming PC setup. A wide desk with three glowing monitors in a row, a keyboard, a PC tower with soft RGB lights, no chair, a bed with pillows, a wall shelf, a rug, a plant, a poster and a window. Keep exactly the same layout, room box, furniture positions, camera angle and framing. Warm evening lamp light with soft monitor glow, painted wood, fabric and resin textures, tilt-shift macro photography, shallow depth of field. The screens show soft abstract colors, no text. Strict composition lock: same high camera angle looking down into the open room, same framing and scale as image 1. The whole room box and its base are visible. Do not move, zoom or crop the camera.",
+  "keyframe_negative": "grey clay, untextured, cartoon, low quality, blurry, text, letters, numbers, license plate, watermark, deformed, faces, office chair, chair",
+  "film_prompt": "A handmade miniature dollhouse bedroom with a gaming PC setup on a wooden base, warm lamp light and soft monitor glow, tilt-shift macro photography. Nothing in the room moves, the monitors stay fixed in place and there is no chair; only the camera moves, craning down and gliding in to the desk and its three monitors. The screens glow softly and are never overexposed or blown out to white.",
+  "film_seed": 42,
+  "keyframe_seed": 7,
+  "music_bpm": 105,
+  "keyframe_restyle_prompt": "Image 1 is a photo of a handmade miniature dollhouse room. Keep image 1 exactly: same camera angle, framing, room box, base and furniture positions. Keep exactly three monitors in a row and no chair. Change only the room's look so it becomes a miniature replica of the real room in image 2: wall colors, desk setup, monitors, keyboard, PC, lighting colors, bed, decor and plants. Screens show soft abstract colors, no text. It must still look like a small handmade model, not a real room. The whole room box and its wooden base stay fully visible from the same high angle; it stays a small handmade dollhouse model sitting on a desk, never a real full-size room.",
+  "facts": "room",
+  "closeups": "room",
+  "endcard_line": "My setup",
+  "reveal_prompt": "Realistic handheld smartphone video of this exact room and desk setup in the evening, no people. The camera slowly pushes in toward the desk; the monitors and RGB lights glow softly. Soft computer fan hum, quiet room tone.",
+  "photo_guide": "Your desk setup from behind the chair, the whole desk and monitors in frame, lights on."
+}

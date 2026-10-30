@@ -1,0 +1,32 @@
+[
+ {
+  "id": "br-phonk",
+  "tags": "brazilian phonk, funk mandelao, aggressive cowbell melody, heavy distorted 808 bass, tamborzao drums, hard hitting, 130 bpm, instrumental, big drop",
+  "negative": "vocals, singing, speech, rap, lyrics, muddy mix, weak drums, lo-fi, quiet, ambient"
+ },
+ {
+  "id": "epic-phonk",
+  "tags": "epic drift phonk, dark choir, orchestral strings, massive distorted 808, cowbell melody, 140 bpm, instrumental, cinematic build up then huge beat drop",
+  "negative": "vocals, singing, speech, rap, lyrics, muddy mix, weak drums, lo-fi, quiet, ambient"
+ },
+ {
+  "id": "house-phonk",
+  "tags": "house phonk, hard cowbell lead, pumping four on the floor kick, deep 808 slides, energetic, 128 bpm, instrumental, big drop",
+  "negative": "vocals, singing, speech, rap, lyrics, muddy mix, weak drums, lo-fi, quiet, ambient"
+ },
+ {
+  "id": "hard-drift",
+  "tags": "aggressive drift phonk, memphis drums, cowbell riff, distorted 808, fast hi-hats, dark and hype, 150 bpm, instrumental, huge drop",
+  "negative": "vocals, singing, speech, rap, lyrics, muddy mix, weak drums, lo-fi, quiet, ambient"
+ },
+ {
+  "id": "epic-trap",
+  "tags": "epic hybrid trap, orchestral brass hits, choir, heavy 808, cinematic and powerful, 140 bpm, instrumental, massive drop",
+  "negative": "vocals, singing, speech, rap, lyrics, muddy mix, weak drums, lo-fi, quiet, ambient"
+ },
+ {
+  "id": "phonk-choir",
+  "tags": "dark phonk, epic gregorian choir, cowbell melody, distorted 808 bass, heavy kick, 135 bpm, instrumental, big drop",
+  "negative": "vocals, singing, speech, rap, lyrics, muddy mix, weak drums, lo-fi, quiet, ambient"
+ }
+]

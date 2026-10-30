@@ -1,0 +1,16 @@
+{
+  "shared_prefix": "Image 1 is a real photo of a shop. Keep this exact same shop, same viewpoint and framing: same name, colors, materials, signage and window displays.",
+  "shared_suffix": "Realistic smartphone photo, true colors, sharp, no extra text, no watermark.",
+  "negative": "different shop, cartoon, illustration, miniature, distorted text, watermark, extra signs, blurry, low quality, people",
+  "shop_description": "DEMO ONLY (fictional shop). The inside of a small independent neighborhood bakery called Halloway & Pip: cream-painted wooden panelling, warm brass pendant lights, red and white striped accents matching its awning, rustic wooden shelves of crusty bread loaves and pastries, a polished wooden counter with a glass display case.",
+  "shots": [
+    {"id": "ext_left", "mode": "angle", "seed": 7, "prompt": "<sks> front-left quarter view eye-level shot medium shot"},
+    {"id": "ext_right", "mode": "angle", "seed": 7, "prompt": "<sks> front-right quarter view eye-level shot medium shot"},
+    {"id": "ext_low_sign", "mode": "angle", "seed": 7, "prompt": "<sks> front view low-angle shot close-up"},
+    {"id": "detail_window", "mode": "angle", "seed": 7, "prompt": "<sks> front-left quarter view eye-level shot close-up"},
+    {"id": "ext_evening", "mode": "edit", "seed": 7, "prompt": "Change only the time of day to dusk: warm lights glowing inside the windows and under the awning, a deep blue evening sky. Everything else stays identical."},
+    {"id": "int_wide", "mode": "t2i", "seed": 7, "prompt": "Wide view from just inside the front door looking toward the counter at the back. No people."},
+    {"id": "int_counter", "mode": "t2i", "seed": 8, "prompt": "Close view of the counter: the glass display case full of croissants, tarts and loaves, a small brass till. No people."},
+    {"id": "product_hero", "mode": "t2i", "seed": 9, "width": 1024, "height": 1024, "prompt": "Product photo of the bakery's signature crusty sourdough loaf on the wooden counter, shallow depth of field, the shop softly blurred behind. No people."}
+  ]
+}

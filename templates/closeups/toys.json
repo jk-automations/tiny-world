@@ -1,0 +1,35 @@
+{
+  "shared_prefix": "",
+  "shared_suffix": "Extreme close-up macro photo, shallow depth of field, soft warm window light, rich true colors, sharp, cinematic, no text, no watermark, no people's faces.",
+  "negative": "text, letters, logo, watermark, cartoon, illustration, miniature, blurry, low quality, deformed hands, faces",
+  "shop_description": "",
+  "shots": [
+    {
+      "id": "robot",
+      "mode": "t2i",
+      "seed": 7,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A small vintage tin wind-up robot toy standing on a wooden shelf.",
+      "motion": "The wind-up robot takes slow clicking steps forward, its key turning. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "top",
+      "mode": "t2i",
+      "seed": 8,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A colorful wooden spinning top spinning on a wooden counter.",
+      "motion": "The top spins slowly, colors blurring, then wobbles. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "horse",
+      "mode": "t2i",
+      "seed": 9,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A wooden rocking horse with a red saddle in a toy shop.",
+      "motion": "The rocking horse rocks gently back and forth. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    }
+  ]
+}

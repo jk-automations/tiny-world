@@ -1,0 +1,36 @@
+{
+  "shared_prefix": "",
+  "shared_suffix": "Extreme close-up macro photo, shallow depth of field, soft warm light, rich true colors, sharp, cinematic, no text, no watermark, no people's faces.",
+  "negative": "text, letters, numbers, logo, license plate, watermark, cartoon, illustration, miniature, blurry, low quality, deformed hands, faces",
+  "shop_description": "",
+  "shots": [
+    {
+      "id": "keys",
+      "mode": "t2i",
+      "seed": 7,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A mechanical keyboard with soft RGB backlight on a desk at night.",
+      "motion": "A key presses down slowly, the backlight ripples. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "fan",
+      "mode": "t2i",
+      "seed": 8,
+      "width": 576,
+      "height": 1024,
+      "prompt": "RGB case fans inside a PC seen through tempered glass.",
+      "motion": "The fans spin, colored light swirls slowly. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "lamp",
+      "mode": "t2i",
+      "seed": 9,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A desk lamp and a plant beside a glowing monitor, abstract colors on screen, no text.",
+      "motion": "The lamp clicks on, warm light fills the frame slowly. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    }
+  ],
+  "from_photo": true
+}

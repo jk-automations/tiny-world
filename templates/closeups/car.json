@@ -1,0 +1,36 @@
+{
+  "shared_prefix": "",
+  "shared_suffix": "Extreme close-up macro photo, shallow depth of field, soft warm light, rich true colors, sharp, cinematic, no text, no watermark, no people's faces.",
+  "negative": "text, letters, numbers, logo, license plate, watermark, cartoon, illustration, miniature, blurry, low quality, deformed hands, faces",
+  "shop_description": "",
+  "shots": [
+    {
+      "id": "wheel",
+      "mode": "t2i",
+      "seed": 7,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A car wheel and tire close-up on clean asphalt, glossy paint above it.",
+      "motion": "The wheel turns slowly, light rolls across the rim. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "light",
+      "mode": "t2i",
+      "seed": 8,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A car headlight close-up, clean glass.",
+      "motion": "The headlight switches on and glows, slow motion. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "paint",
+      "mode": "t2i",
+      "seed": 9,
+      "width": 576,
+      "height": 1024,
+      "prompt": "Sunlight reflecting on glossy car paint, a water droplet on the surface.",
+      "motion": "A water droplet slides slowly down the paint. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    }
+  ],
+  "from_photo": true
+}

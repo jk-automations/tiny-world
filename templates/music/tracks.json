@@ -1,0 +1,13 @@
+{
+ "phonk-drop": {
+  "drop": 13.25,
+  "bpm": 150,
+  "style": "hard drift phonk, cowbell riff, distorted 808, silence then the drop at 13.25 s"
+ },
+ "jersey-club": {
+  "style": "jersey club, bouncy"
+ },
+ "lofi-house": {
+  "style": "lo-fi house, groovy"
+ }
+}

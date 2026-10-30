@@ -1,0 +1,18 @@
+{
+  "name": "car",
+  "width": 576,
+  "height": 1024,
+  "fps": 24,
+  "frames": 177,
+  "keyframe_seed": 7,
+  "keyframe_prompt": "Turn this grey blockout into a photorealistic handmade miniature diorama of a tiny car garage on a wooden base on a desk: a die-cast collector model car on a low display stand in the middle, a workbench with tiny tools and a pegboard at the back, a stack of tyres, a red toolbox, an oil can, a raised roll-up door at the open front and strip lights on the ceiling. Keep exactly the same layout, garage box, car shape and angle, props, camera angle and framing. Warm evening workshop light, glossy die-cast paint, painted metal, rubber and wood textures, tilt-shift macro photography, shallow depth of field. No logos, no text. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole garage box and its base are visible. Do not move, zoom or crop the camera.",
+  "keyframe_negative": "grey clay, untextured, cartoon, low quality, blurry, text, letters, numbers, license plate, watermark, deformed, faces",
+  "film_prompt": "A handmade miniature garage diorama with a glossy die-cast model car on a display stand, tiny tools, tyres and a toolbox, warm workshop light, tilt-shift macro photography. Nothing in the garage moves; only the camera moves, craning down and gliding to a low three-quarter front view of the car. Light glints softly on the paint, never blown out.",
+  "film_seed": 42,
+  "keyframe_restyle_prompt": "Image 1 is a photo of a handmade miniature garage diorama with a die-cast model car. Keep image 1 exactly: same camera angle, framing, garage box, base, props and light. Change only the model car on the display stand so it becomes a perfect die-cast replica of the real car in image 2, at the same size and angle: its body shape, paint color, wheels, lights and trim. No logos, no license plate text. It must still look like a small die-cast model.",
+  "reveal_prompt": "Realistic handheld smartphone video of this exact car parked outside. The camera slowly pushes in; sunlight glints across the paint. No people. Quiet street sounds.",
+  "facts": "car",
+  "closeups": "car",
+  "endcard_line": "@yourname",
+  "photo_guide": "Your car in its garage (or the driveway with the open garage door behind it), three-quarter front view, the whole car in frame."
+}

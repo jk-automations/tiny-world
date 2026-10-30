@@ -1,0 +1,38 @@
+{
+  "name": "storefront",
+  "width": 576,
+  "height": 1024,
+  "fps": 24,
+  "frames": 177,
+  "keyframe_prompt": "Turn this grey blockout into a photorealistic handmade miniature diorama of a small neighborhood bakery, standing on a round wooden base on a workbench. Keep exactly the same layout, building shape, door, windows, awning, sign board, trees, car, figures, camera angle and framing. Warm golden-hour light, glowing shop windows, tiny hand-painted figures, painted wood, paper and resin textures, tilt-shift macro photography, shallow depth of field. The sign board is blank. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole round base is visible at the bottom of the frame, the shop sits in the middle third, the two neighbouring buildings stand on either side, the street and car are in front. Do not move, zoom or crop the camera.",
+  "keyframe_prompt_photo": "Turn the grey blockout in image 1 into a photorealistic handmade miniature diorama of the shop in image 2, standing on a round wooden base on a workbench. Keep exactly the same layout, building shape, door, windows, awning, sign board, trees, car, figures, camera angle and framing as image 1. Copy the shop's colors, materials, window displays and character from image 2. Warm golden-hour light, glowing shop windows, tiny hand-painted figures, tilt-shift macro photography, shallow depth of field. The sign board is blank. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole round base is visible at the bottom of the frame, the shop sits in the middle third, the two neighbouring buildings stand on either side, the street and car are in front. Do not move, zoom or crop the camera.",
+  "keyframe_negative": "grey clay, untextured, cartoon, low quality, blurry, text, letters, watermark, deformed",
+  "film_prompt": "A handmade miniature diorama of a small neighborhood shop on a round wooden base, golden-hour light, tiny trees and a toy car, tilt-shift macro photography. The miniature figures are frozen in place like painted models and never move; only the camera moves, craning down and gliding to the shop door. The light stays soft and even; the doorway and windows glow warmly but are never overexposed or blown out to white.",
+  "film_seed": 42,
+  "keyframe_seed": 7,
+  "mid_keyframe_frame": 120,
+  "mid_keyframe_prompt": "Image 1 is a grey blockout seen from the street. Turn it into the same handmade miniature diorama shown in image 2: same shop, colors, awning, windows, signage board, trees and golden-hour light. Keep exactly the camera angle, framing and layout of image 1. Tilt-shift macro photography, shallow depth of field. The sign board is blank.",
+  "music_bpm": 105,
+  "music_candidates": [
+    {
+      "id": "A_cozy_acoustic",
+      "seed": 101,
+      "tags": "instrumental, whimsical cozy acoustic, glockenspiel, pizzicato strings, soft piano, brushed drums, warm, heartwarming, small town morning, 105 bpm, major key"
+    },
+    {
+      "id": "B_lofi",
+      "seed": 102,
+      "tags": "instrumental, lo-fi chillhop, warm vinyl crackle, mellow electric piano, soft boom bap drums, cozy, 105 bpm"
+    },
+    {
+      "id": "C_music_box",
+      "seed": 103,
+      "tags": "instrumental, magical cinematic, music box melody, swelling strings, sense of wonder, playful, uplifting build, 105 bpm"
+    }
+  ],
+  "music": "music.mp3",
+  "keyframe_restyle_prompt": "Image 1 is a photo of a handmade miniature diorama. Keep image 1 exactly: same camera angle, framing, round wooden base, street, car, trees, figures, neighbouring buildings and golden-hour light. Change only the miniature shop in the middle so it becomes a miniature replica of the real shop in image 2: its facade colors, materials, awning, window displays, door and sign board shape. The sign board stays blank. It must still look like a small handmade model, not a real building.",
+  "walkin_prompt": "Realistic smooth handheld walk-in video. The camera starts outside this exact shop and glides forward through the open front door into the shop, ending on a wide view of the bright interior. Steady forward motion, natural light, true colors, no people. Quiet shop ambience, a soft door bell.",
+  "facts": "storefront",
+  "photo_guide": "The shop front from across the street, straight on, the whole front in frame."
+}

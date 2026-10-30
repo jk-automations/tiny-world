@@ -1,0 +1,35 @@
+{
+  "shared_prefix": "",
+  "shared_suffix": "Extreme close-up macro photo, shallow depth of field, soft warm window light, rich true colors, sharp, cinematic, no text, no watermark, no people's faces.",
+  "negative": "text, letters, logo, watermark, cartoon, illustration, miniature, blurry, low quality, deformed hands, faces",
+  "shop_description": "",
+  "shots": [
+    {
+      "id": "swirl",
+      "mode": "t2i",
+      "seed": 7,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A smooth swirl of pale cream on frosted glass.",
+      "motion": "The cream swirl turns slowly, catching the light. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "droplet",
+      "mode": "t2i",
+      "seed": 8,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A water droplet on the side of a frosted glass skincare jar with a sage green lid.",
+      "motion": "The droplet slides slowly down the frosted glass. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "lid",
+      "mode": "t2i",
+      "seed": 9,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A sage green lid lifting off a frosted glass jar of cream.",
+      "motion": "The lid lifts and turns slowly away, revealing the cream. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+runs/
+*.part
+*.safetensors
+.env*
+__pycache__/
+docs/ref-layout-to-render/
+templates/*/clay_frames/
+*.blend1
+templates/*/clay_frames

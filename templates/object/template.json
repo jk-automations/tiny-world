@@ -1,0 +1,21 @@
+{
+  "name": "object",
+  "width": 576,
+  "height": 1024,
+  "fps": 24,
+  "frames": 177,
+  "keyframe_seed": 7,
+  "keyframe_prompt": "Turn this grey blockout into a photorealistic handmade miniature diorama of a tiny town square on a round wooden base on a workbench. The grey object on the stepped pedestal in the middle is a giant object standing like a monument: keep its exact shape and proportions. Tiny hand-painted figures look up at it, tiny trees, lamps, benches and little houses around the square. Warm golden-hour light, tilt-shift macro photography, shallow depth of field. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole round base is visible at the bottom of the frame. Do not move, zoom or crop the camera.",
+  "keyframe_prompt_photo": "Turn the grey blockout in image 1 into a photorealistic handmade miniature diorama of a tiny town square on a round wooden base on a workbench. Replace the tall block on the stepped pedestal with the exact product from image 2, giant like a monument, keeping its shape, colors, materials and label design. Tiny hand-painted figures look up at it, tiny trees, lamps, benches and little houses around the square. Warm golden-hour light, tilt-shift macro photography, shallow depth of field. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole round base is visible at the bottom of the frame. Do not move, zoom or crop the camera.",
+  "keyframe_negative": "grey clay, untextured, cartoon, low quality, blurry, watermark, deformed",
+  "mid_keyframe_frame": 120,
+  "mid_keyframe_prompt": "",
+  "film_prompt": "A handmade miniature diorama of a tiny town square on a round wooden base, a giant object standing on a pedestal like a monument, golden-hour light, tiny trees and lamps, tilt-shift macro photography. The miniature figures are frozen in place like painted models and never move; only the camera moves, orbiting down to a low hero angle and pushing in to the object. The light stays soft and even, never blown out.",
+  "film_seed": 42,
+  "keyframe_restyle_prompt": "Image 1 is a photo of a handmade miniature diorama. Keep image 1 exactly: same camera angle, framing, round wooden base, square, figures, trees and light. Change only the giant object on the pedestal so it becomes the exact object from image 2, at the same giant monument scale, the same shape and the same angle: its colors, materials, details and markings. No logos or brand text.",
+  "reveal_prompt": "Realistic handheld smartphone video of this exact object. The camera slowly pushes in; soft light moves across it. No people. Quiet room tone.",
+  "photo_guide": "The product alone on a plain surface, the whole product in frame.",
+  "facts": "product-pedestal",
+  "closeups": null,
+  "endcard_line": "@yourname"
+}

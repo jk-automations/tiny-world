@@ -1,0 +1,35 @@
+{
+  "shared_prefix": "",
+  "shared_suffix": "Extreme close-up macro photo, shallow depth of field, soft warm window light, rich true colors, sharp, cinematic, no text, no watermark, no people's faces.",
+  "negative": "text, letters, logo, watermark, cartoon, illustration, miniature, blurry, low quality, deformed hands, faces",
+  "shop_description": "",
+  "shots": [
+    {
+      "id": "droplets",
+      "mode": "t2i",
+      "seed": 7,
+      "width": 576,
+      "height": 1024,
+      "prompt": "Water droplets on soft pink rose petals.",
+      "motion": "A water droplet slides slowly down the rose petal and falls. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "ribbon",
+      "mode": "t2i",
+      "seed": 8,
+      "width": 576,
+      "height": 1024,
+      "prompt": "Hands tying a green satin ribbon around a bouquet stem wrapped in brown paper, faces out of frame.",
+      "motion": "The ribbon is pulled tight into a bow, slowly. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    },
+    {
+      "id": "wrap",
+      "mode": "t2i",
+      "seed": 9,
+      "width": 576,
+      "height": 1024,
+      "prompt": "A mixed bouquet of tulips and peonies being wrapped in crisp brown paper on a wooden counter.",
+      "motion": "The paper folds around the flowers, petals sway gently. Cinematic slow motion, 120 fps look, the camera barely drifts closer. Soft ambient sound."
+    }
+  ]
+}

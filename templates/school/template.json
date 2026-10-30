@@ -1,0 +1,19 @@
+{
+  "name": "school",
+  "width": 576,
+  "height": 1024,
+  "fps": 24,
+  "frames": 177,
+  "keyframe_prompt": "Turn this grey blockout into a photorealistic handmade miniature diorama of a small neighborhood school building, standing on a round wooden base on a workbench. Keep exactly the same layout, one-storey wide building, entrance door, entrance canopy, windows, blank name board, trees, car, figures, camera angle and framing. Warm golden-hour light, glowing windows, tiny hand-painted figures, painted wood, paper and resin textures, tilt-shift macro photography, shallow depth of field. The name board is blank. The school sits in the middle third, the street and car are in front. Strict composition lock: same high camera angle looking down, same framing and scale as image 1. The whole round base is visible at the bottom of the frame. Do not move, zoom or crop the camera.",
+  "keyframe_negative": "grey clay, untextured, cartoon, low quality, blurry, text, letters, numbers, license plate, watermark, deformed, faces",
+  "film_prompt": "A handmade miniature diorama of a small school building on a round wooden base, golden-hour light, tiny trees and a toy car, tilt-shift macro photography. The miniature figures are frozen in place like painted models and never move; only the camera moves, craning down and gliding to the entrance. The light stays soft and even; windows and screens glow warmly but are never overexposed or blown out to white.",
+  "film_seed": 42,
+  "keyframe_seed": 7,
+  "music_bpm": 105,
+  "keyframe_restyle_prompt": "Image 1 is a photo of a handmade miniature diorama. Keep image 1 exactly: same camera angle, framing, round wooden base, street, car, trees, figures and golden-hour light. Change only the miniature building in the middle so it becomes a miniature replica of the real school in image 2: its wall colors and materials, roof, windows, entrance and canopy. The name board stays blank. It must still look like a small handmade model, not a real building.",
+  "facts": "storefront",
+  "closeups": "school",
+  "endcard_line": "Proud to be here",
+  "reveal_prompt": "Realistic handheld smartphone video of this exact school building in daylight, no people. The camera slowly pushes in toward the entrance. Flags and leaves move gently. Quiet morning sounds, distant birds.",
+  "photo_guide": "The front of the building from across the road, straight on, no people."
+}
